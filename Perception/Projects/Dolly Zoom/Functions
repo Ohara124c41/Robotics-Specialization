@@ -1,0 +1,2 @@
+pos = (H2*ratio*d1_ref - H1*d2_ref)/(H2*ratio - H1);
+f = 100 * (4-pos);
