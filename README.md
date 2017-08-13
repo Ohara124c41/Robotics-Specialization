@@ -14,7 +14,11 @@ Projects, lecture notes and information related to robotics and the Robotics Spe
 
 ![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Aerial%20Robotics.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Aerial%20Robotics.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Contact.gif?raw=true)
+
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Hopper01.gif)
+
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Hopper02.gif)
 
 
 ## About This Specialization
