@@ -4,8 +4,6 @@ Projects, lecture notes and information related to robotics and the Robotics Spe
 
 ![](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/1953896a-db59-11e6-8fe9-9fdc36b537d0.gif)
 
-<img width="200" alt="portfolio_view" src="https://tinyurl.com/n4gtql8">
-
 ![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Mobility.gif?raw=true)
 
 ![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Grassfire%20Algorithm.gif?raw=true)
