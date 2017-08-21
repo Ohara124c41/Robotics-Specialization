@@ -23,7 +23,7 @@ Projects, lecture notes and information related to robotics and the Robotics Spe
 
 ![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/vert_hopper_2.gif)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/collision_ex1.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/collision_ex.gif?raw=true)
 
 
 ## About This Specialization
