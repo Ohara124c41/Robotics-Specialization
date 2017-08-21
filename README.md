@@ -9,19 +9,21 @@ Projects, lecture notes and information related to robotics and the Robotics Spe
 
 ![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Kinematics01.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Grassfire%20Algorithm.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/config_space_ex01.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Search%20Algorithm.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/config_space_ex02.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Configuration%20Space.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/A_star_algo.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Aerial%20Robotics.gif?raw=true)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/grass_fire_algo.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Contact.gif?raw=true)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Hopper01.gif)
 
-![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/Hopper02.gif)
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/vert_hopper_1.gif)
+
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/vert_hopper_2.gif)
+
+![alt text](https://github.com/Ohara124c41/Robotics-Specialization/blob/master/Estimation-Learning/Projects/collision_ex1.gif?raw=true)
 
 
 ## About This Specialization
